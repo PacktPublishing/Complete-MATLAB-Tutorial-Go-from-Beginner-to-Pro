@@ -8,9 +8,9 @@ MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment a
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI> You are able to confidently use MATLAB for problem solving</LI>
-<LI> You are able to run scripts, write code and do data analysis and visualization <LI>
-<LI> You are able to solve equations, do math operations and manipulate matrices in different ways <LI>
-<LI> You are able to formulate your own logic and convert complex problems into MATLAB code and solve them using programming skills <LI>
+<LI> You are able to run scripts, write code and do data analysis and visualization </LI>
+<LI> You are able to solve equations, do math operations and manipulate matrices in different ways </LI>
+<LI> You are able to formulate your own logic and convert complex problems into MATLAB code and solve them using programming skills </LI>
 </UL></DIV>
 
 ## Instructions and Navigation
