@@ -30,7 +30,3 @@ N/A
 * [Apache Maven: Beginner to Guru [Video]](https://www.packtpub.com/application-development/apache-maven-beginner-guru-video)
 
 * [Python Django Web Development: To-Do App [Video]](https://www.packtpub.com/web-development/python-django-web-development-do-app-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788993692">https://packt.link/free-ebook/9781788993692 </a> </p>
